@@ -61,4 +61,4 @@ jupyter notebook Customer_Segmentation_KMeans.ipynb
 Author: Lakshya Rana
 📧 Email: lakshyarana1806@gmail.com
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshyarana01)
