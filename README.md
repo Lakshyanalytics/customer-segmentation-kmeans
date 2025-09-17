@@ -121,6 +121,21 @@ By leveraging these insights, businesses can **align marketing, improve retentio
 
 ---
 
+## 📌 Tech Stack
+
+Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
+Jupyter Notebook
+
+## 📬 Contact
+
+Author: Your Name
+📧 [Email](lakshyarana1806@gmail.com)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lakshyarana01/)
+
+---
+
 ## 🚀 How to Run  
 ```bash
 pip install -r requirements.txt
@@ -131,10 +146,3 @@ jupyter notebook Customer_Segmentation_KMeans.ipynb
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 Jupyter Notebook
-
-**## 📬 Contact**
-
-Author: Your Name
-📧 [Email](lakshyarana1806@gmail.com)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/lakshyarana01/)
