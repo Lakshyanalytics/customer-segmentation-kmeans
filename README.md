@@ -129,7 +129,8 @@ Jupyter Notebook
 
 ## 📬 Contact
 
-Author: Your Name
+**Author: Lakshya Rana**
+
 📧 [Email](lakshyarana1806@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lakshyarana01/)
