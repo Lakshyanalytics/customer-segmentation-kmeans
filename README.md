@@ -131,7 +131,7 @@ Jupyter Notebook
 
 **Author: Lakshya Rana**
 
-📧 [Email](lakshyarana1806@gmail.com)
+📧 [Gmail](lakshyarana1806@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lakshyarana01/)
 
