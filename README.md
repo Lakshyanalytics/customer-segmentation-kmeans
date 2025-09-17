@@ -58,7 +58,6 @@ pip install -r requirements.txt
 jupyter notebook Customer_Segmentation_KMeans.ipynb
 
 ## 📬 Contact
-Author: Lakshya Rana
+Author: Lakshya Rana 
 📧 Email: lakshyarana1806@gmail.com
-
 🔗 [LinkedIn](https://www.linkedin.com/in/lakshyarana01)
